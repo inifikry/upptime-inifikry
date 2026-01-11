@@ -25,7 +25,7 @@
     "url": "http://213.35.102.255:666",
     "icon": "https://icons.duckduckgo.com/ip3/213.35.102.255.ico",
     "slug": "casa-os-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 380,
     "timeMonth": 393,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   },
   {
     "name": "CASAOS",
@@ -44,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/casaos.inifikry.xyz.ico",
     "slug": "casaos",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 2111,
     "timeDay": 12483,
     "timeWeek": 3627,
     "timeMonth": 2111,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 34
     }
   },
   {
@@ -64,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.inifikry.xyz.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1145,
     "timeDay": 967,
     "timeWeek": 984,
     "timeMonth": 1145,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 34
     }
   },
   {
@@ -84,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ytptube.inifikry.xyz.ico",
     "slug": "ytp-tube",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 763,
     "timeDay": 725,
     "timeWeek": 742,
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 34
     }
   },
   {
@@ -104,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.inifikry.xyz.ico",
     "slug": "n8-n",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 761,
     "timeDay": 865,
     "timeWeek": 674,
     "timeMonth": 761,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 33
     }
   },
   {
@@ -124,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.inifikry.xyz.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1203,
     "timeDay": 1116,
     "timeWeek": 1119,
     "timeMonth": 1203,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 33
     }
   },
   {
@@ -144,18 +146,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.inifikry.xyz.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1165,
     "timeDay": 943,
     "timeWeek": 1125,
     "timeMonth": 1165,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 33
     }
   },
   {
@@ -164,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.inifikry.xyz.ico",
     "slug": "portainer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 818,
     "timeDay": 1158,
     "timeWeek": 854,
     "timeMonth": 818,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 33
     }
   },
   {
@@ -184,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gopeed.inifikry.xyz.ico",
     "slug": "gopeed",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 757,
     "timeDay": 797,
     "timeWeek": 747,
     "timeMonth": 757,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 33
     }
   }
 ]
