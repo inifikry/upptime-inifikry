@@ -1,7 +1,7 @@
 url: https://sonarr.inifikry.xyz
-status: down
-code: 502
-responseTime: 863
-lastUpdated: 2026-01-24T13:57:01.500Z
+status: up
+code: 200
+responseTime: 1118
+lastUpdated: 2026-01-24T14:12:32.706Z
 startTime: 2025-12-29T09:27:22.042Z
 generator: Upptime <https://github.com/upptime/upptime>
