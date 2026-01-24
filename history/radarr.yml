@@ -1,7 +1,7 @@
 url: https://radarr.inifikry.xyz
-status: down
-code: 502
-responseTime: 25912
-lastUpdated: 2026-01-24T16:55:17.783Z
+status: up
+code: 200
+responseTime: 1217
+lastUpdated: 2026-01-24T16:59:48.313Z
 startTime: 2025-12-29T09:27:19.909Z
 generator: Upptime <https://github.com/upptime/upptime>
