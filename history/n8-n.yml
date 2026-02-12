@@ -1,7 +1,7 @@
 url: https://n8n.inifikry.xyz
-status: up
-code: 200
-responseTime: 913
-lastUpdated: 2026-02-11T23:22:30.619Z
+status: down
+code: 502
+responseTime: 619
+lastUpdated: 2026-02-12T02:06:36.282Z
 startTime: 2025-12-29T09:27:18.674Z
 generator: Upptime <https://github.com/upptime/upptime>
