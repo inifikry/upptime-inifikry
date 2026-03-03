@@ -1,7 +1,7 @@
 url: https://portainer.inifikry.xyz
-status: up
-code: 200
-responseTime: 766
-lastUpdated: 2026-03-02T23:16:06.513Z
+status: down
+code: 530
+responseTime: 145
+lastUpdated: 2026-03-03T13:18:34.679Z
 startTime: 2025-12-29T09:27:23.984Z
 generator: Upptime <https://github.com/upptime/upptime>
