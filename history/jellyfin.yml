@@ -1,7 +1,7 @@
 url: https://jellyfin.inifikry.xyz
-status: up
-code: 200
-responseTime: 1297
-lastUpdated: 2026-06-26T23:53:57.515Z
+status: down
+code: 530
+responseTime: 45
+lastUpdated: 2026-06-27T05:39:18.210Z
 startTime: 2025-12-29T09:27:15.760Z
 generator: Upptime <https://github.com/upptime/upptime>
